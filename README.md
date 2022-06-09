@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanyamjain04
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning javascript.
-- <!--💞️ I’m looking to collaborate on 
+ <!--💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...--->
 
 <!---
