@@ -9,11 +9,11 @@
 ### Connect with me:
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/itssanyam#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/itssanyam#gh-dark-mode-only)
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/itssanyam#gh-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://twitter.com/itssanyam#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sanyamjain04#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sanyamjain04#gh-dark-mode-only)
+[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/sanyamjain04#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/sanyamjain04#gh-dark-mode-only)
 &nbsp;&nbsp;
 <!---
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
