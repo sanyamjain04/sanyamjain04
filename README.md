@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanyam Jain</h1>
 <h3 align="center"> 👀 I’m interested in full stack development.</h3>
-<h4 align="centre"> 🚀Open Source Enthuasist. </h4>
+<!-- <h4 align="centre"> 🚀Open Source Enthuasist. </h4> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyamjain04&label=Profile%20views&color=0e75b6&style=flat" alt="sanyamjain04" /> </p>
 
