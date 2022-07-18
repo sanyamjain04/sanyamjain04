@@ -2,7 +2,7 @@
 <h3 align="center"> 👀 I’m interested in full stack development.</h3>
 <!-- <h4 align="centre"> 🚀Open Source Enthuasist. </h4> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyamjain04&label=Profile%20views&color=0e75b6&style=flat" alt="sanyamjain04" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyamjain04&label=Profile%20views&color=0e75b6&style=flat" alt="sanyamjain04" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/itssanyam" target="blank"><img src="https://img.shields.io/twitter/follow/itssanyam?logo=twitter&style=for-the-badge" alt="itssanyam" /></a> </p>
 
