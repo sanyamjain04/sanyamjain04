@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Sanyam Jain and I'm a Full Stack Developer, from India.</h2>
+<h2 align="center">Hi 👋! My name is Sanyam Jain and I'm a aspiring Full Stack Developer, from India.</h2>
 
 ###
 
