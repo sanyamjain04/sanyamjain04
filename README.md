@@ -1,14 +1,5 @@
 <h2 align="center">Hi 👋! My name is Sanyam Jain and I'm a aspiring Full Stack Developer, from India.</h2>
 
-###
-
-<p align="center">👀 I’m interested in learning full stack development.</p>
-
-###
-
-<p align="center">🌱 I’m currently learning ReactJS , TypeScript, JavaScript.</p>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=sanyamjain04" height="150" alt="stats graph"  />
